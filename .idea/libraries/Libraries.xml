@@ -1,7 +1,6 @@
 <component name="libraryTable">
   <library name="Libraries">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../Libraries/engine.io-client-2.0.0.jar!/" />
       <root url="jar://$PROJECT_DIR$/../Libraries/engine.io-server-4.0.3.jar!/" />
       <root url="jar://$PROJECT_DIR$/../Libraries/gson-2.8.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/../Libraries/jackson-annotations-2.14.0-rc1.jar!/" />
@@ -22,10 +21,14 @@
       <root url="jar://$PROJECT_DIR$/../Libraries/okio-1.15.0.jar!/" />
       <root url="jar://$PROJECT_DIR$/../Libraries/slf4j-api-1.7.33.jar!/" />
       <root url="jar://$PROJECT_DIR$/../Libraries/slf4j-simple-1.7.21.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../Libraries/socket.io-client-2.0.0.jar!/" />
       <root url="jar://$PROJECT_DIR$/../Libraries/socket.io-server-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/engine.io-client-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/socket.io-client-2.1.0.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/netty-transport-4.1.80.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/netty-socketio-1.7.23-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>
